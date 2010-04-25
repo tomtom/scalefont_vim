@@ -1,0 +1,13 @@
+:ScaleFont	scalefont.txt	/*:ScaleFont*
+:ScaleFontBigger	scalefont.txt	/*:ScaleFontBigger*
+:ScaleFontSetLinesCols	scalefont.txt	/*:ScaleFontSetLinesCols*
+:ScaleFontSmaller	scalefont.txt	/*:ScaleFontSmaller*
+ScaleFontBuildMenu()	scalefont.txt	/*ScaleFontBuildMenu()*
+ScaleFontMaximizeWindow()	scalefont.txt	/*ScaleFontMaximizeWindow()*
+ScaleFontSaveOptions()	scalefont.txt	/*ScaleFontSaveOptions()*
+g:scaleFont	scalefont.txt	/*g:scaleFont*
+g:scaleFontMenu	scalefont.txt	/*g:scaleFontMenu*
+g:scaleFontSize	scalefont.txt	/*g:scaleFontSize*
+g:scaleFontWidth	scalefont.txt	/*g:scaleFontWidth*
+scalefont-modes	scalefont.txt	/*scalefont-modes*
+scalefont.txt	scalefont.txt	/*scalefont.txt*
