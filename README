@@ -1,6 +1,6 @@
 scalefont (VIM plugin) -- Switch between your favourite font/gui settings
 
-Status:  Experimental
+Status:  Works for me (there may be some minor quirks)
 Install: See http://github.com/tomtom/vimtlib/blob/master/INSTALL.TXT
 See http://github.com/tomtom for related plugins.
 
